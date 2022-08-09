@@ -1,6 +1,6 @@
 # IIR_Elliptic_Filter_CS_Library
 
-C# Library to calculate the coefficients of the Elliptic filter and to filter the data.
+C# Library to calculate the coefficients of the Elliptic filter and to filter the data. This is the code uploaded in nuget.org.
 
 This code calculates the coefficients of the Band-pass, Band-stop, Low-pass and High-pass Elliptic filters. It also filters the data, but no zero-phase delay is applied. The name space is: IIR_Elliptic_Filter. The code follows the same steps as in Matlab.
 
