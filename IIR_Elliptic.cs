@@ -592,7 +592,7 @@ namespace IIR_Elliptic_Filter
 
         }
 
-        //Step 3: Get N - th order Butterworth analog lowpass prototype
+        //Step 3: Get N - th order Elliptic analog lowpass prototype
         public void Ellipap(int order_filt, double Rp, double Rs)
         {
 
